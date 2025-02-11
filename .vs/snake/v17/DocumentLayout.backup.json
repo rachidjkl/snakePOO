@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\jugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|solutionrelative:snake\\jugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|solutionrelative:snake\\manzana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|solutionrelative:snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|solutionrelative:snake\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|c:\\users\\mati\\desktop\\diagramas de flujo a c#\\snakepoo\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0136BAD8-B71B-4726-B517-78965E23A70A}|snake\\snake.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Program.cs",
+              "RelativeDocumentMoniker": "snake\\Program.cs",
+              "ToolTip": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Program.cs",
+              "RelativeToolTip": "snake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:41:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jugar.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Jugar.cs",
+              "RelativeDocumentMoniker": "snake\\Jugar.cs",
+              "ToolTip": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Jugar.cs",
+              "RelativeToolTip": "snake\\Jugar.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwI0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:46:30.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tablero.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Tablero.cs",
+              "RelativeDocumentMoniker": "snake\\Tablero.cs",
+              "ToolTip": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Tablero.cs",
+              "RelativeToolTip": "snake\\Tablero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:45:41.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manzana.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Manzana.cs",
+              "RelativeDocumentMoniker": "snake\\Manzana.cs",
+              "ToolTip": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Manzana.cs",
+              "RelativeToolTip": "snake\\Manzana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:43:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Snake.cs",
+              "RelativeDocumentMoniker": "snake\\Snake.cs",
+              "ToolTip": "C:\\Users\\Mati\\Desktop\\Diagramas de flujo a C#\\snakePOO\\snake\\Snake.cs",
+              "RelativeToolTip": "snake\\Snake.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T19:43:38.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

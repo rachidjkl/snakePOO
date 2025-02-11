@@ -1,0 +1,14 @@
+C:\Users\Usuari\source\repos\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Usuari\source\repos\snake\snake\bin\Debug\snake.exe
+C:\Users\Usuari\source\repos\snake\snake\bin\Debug\snake.pdb
+C:\Users\Usuari\source\repos\snake\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\Usuari\source\repos\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\source\repos\snake\snake\obj\Debug\snake.exe
+C:\Users\Usuari\source\repos\snake\snake\obj\Debug\snake.pdb
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\bin\Debug\snake.exe.config
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\bin\Debug\snake.exe
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\bin\Debug\snake.pdb
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\obj\Debug\snake.exe
+C:\Users\Mati\Desktop\Diagramas de flujo a C#\snakePOO\snake\obj\Debug\snake.pdb
